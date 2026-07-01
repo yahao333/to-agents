@@ -58,4 +58,4 @@ to-agents/
 
 ## 许可证
 
-待定（TBD）
+MIT
